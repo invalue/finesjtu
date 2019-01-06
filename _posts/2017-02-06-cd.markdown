@@ -16,7 +16,7 @@ date:   2017-07-22 00:00:00
 
 
 <p align="center">
-    <img src="img/1.jpg" alt="Sample"  width="300" height="420">
+    <img src="img/1.JPG" alt="Sample"  width="300" height="420">
     <p align="center">
         <em></em>
     </p>
