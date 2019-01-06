@@ -1,7 +1,7 @@
 ---
 title:  "cq1"
 subtitle: "hghghhghg"
-author: "wferr"
+author: "Daniel"
 avatar: "img/authors/wferr.png"
 image: "img/2.JPG"
 date:   2017-07-22 00:00:00
