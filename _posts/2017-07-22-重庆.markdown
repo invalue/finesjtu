@@ -1,0 +1,25 @@
+---
+title:  "重庆"
+subtitle: "火锅！火锅！火锅！"
+author: "Daniel"
+avatar: "img/authors/wferr.png"
+image: "img/2.JPG"
+date:   2017-07-22 00:00:00
+---
+
+## 我爱重庆
+
+<font size="3">这个文章吧，其实写起来挺多的，我就随便写写，之后我们两个一起补充好吧！嘿嘿嘿~
+想一想，到了重庆，比较热，最服气的还是去排队，排了六七个小时，坐了三分钟的缆车，中途还吵架，真是印象深刻。虽然重庆说火锅好吃，但其实也没啥深刻印象，**王玉岩可能是旅途中最令人印象深刻的小可爱了**。
+</font><br />
+
+
+
+<p align="center">
+    <img src="img/1.jpg" alt="Sample"  width="300" height="420">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
+
+

@@ -1,0 +1,22 @@
+---
+title:  "迪士尼"
+subtitle: "谁还不是个小公主呢"
+author: "Daniel"
+avatar: "img/authors/wferr.png"
+image: "img/3.JPG"
+date:   2017-09-27
+---
+
+## 交大
+
+<font size="3">迪士尼！迪士尼！早早就过来排队，快通卡畅游迪士尼。不得不说，王玉岩可真是太厉害了~大佬带我玩，两个人半天就全部玩了一遍，真是浑身舒畅，中间导师还打电话过来批评了我一顿，可真是有点不爽。总滴来说，还是很完美~
+
+谁还不是个小公主呢！
+</font><br />
+
+<p align="center">
+    <img src="img/3.JPG" alt="Sample"  width="300" height="300">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
