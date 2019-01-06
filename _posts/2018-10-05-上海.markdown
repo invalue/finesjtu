@@ -1,6 +1,6 @@
 ---
-title:  "cq1"
-subtitle: "hghghhghg"
+title:  "重庆"
+subtitle: "到了重"
 author: "Daniel"
 avatar: "img/authors/wferr.png"
 image: "img/2.JPG"
