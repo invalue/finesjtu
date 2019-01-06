@@ -1,0 +1,21 @@
+---
+title:  "上海归来"
+subtitle: "学校还是舒服"
+author: "Daniel"
+avatar: "img/authors/wferr.png"
+image: "img/7.JPG"
+date:   2017-09-29
+---
+
+## 西安
+
+<font size="3">以后再写~
+
+</font><br />
+
+<p align="center">
+    <img src="img/7.JPG" alt="Sample"  width="300" height="300">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
