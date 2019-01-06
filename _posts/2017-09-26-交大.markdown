@@ -1,0 +1,21 @@
+---
+title:  "交大"
+subtitle: "I LOVE SJTU"
+author: "Daniel"
+avatar: "img/authors/wferr.png"
+image: "img/4.JPG"
+date:   2017-09-26
+---
+
+
+## 交大
+
+<font size="3">跟小可爱来到了交大，这一趟下来，真的很开心！各种玩，各种浪，是王玉岩提升了我的逼格！！
+</font><br />
+
+<p align="center">
+    <img src="img/4.JPG" alt="Sample"  width="300" height="300">
+    <p align="center">
+        <em></em>
+    </p>
+</p>
