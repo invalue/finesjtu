@@ -1,11 +1,12 @@
 ---
-title:  "Planes are cool!"
-subtitle: "The Fly!"
-author: "Wferr"
+title:  "重庆"
+subtitle: "火锅！火锅！火锅！"
+author: "Daniel"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+image: "img/2.JPG"
+date:   2017-07-22 00:00:00
 ---
+
 ## 我爱重庆
 
 <font size="3">这个文章吧，其实写起来挺多的，我就随便写写，之后我们两个一起补充好吧！嘿嘿嘿~
