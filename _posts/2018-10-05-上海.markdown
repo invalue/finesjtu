@@ -1,13 +1,13 @@
 ---
-title:  "国庆上海"
-subtitle: "窝着不出去"
+title:  "sh"
+subtitle: "aaa"
 author: "Daniel"
 avatar: "img/authors/wferr.png"
 image: "img/8.JPG"
 date:   2018-10-05
 ---
 
-### 交大
+## 交大
 
 <font size="3">以后再写~
 
